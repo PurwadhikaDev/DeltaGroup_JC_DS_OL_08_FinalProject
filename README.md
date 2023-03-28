@@ -1,6 +1,6 @@
 # DeltaGroup_JC_DS_OL_08_FinalProject
 
-# Brazilian-E-commerce-Public-Dataset-by-Olist-Final-Project
+# Brazilian-E-commerce-Public-Dataset-by-Olist
 
 # Customer-Satisfaction-Prediction
 
